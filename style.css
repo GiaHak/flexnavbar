@@ -1,0 +1,44 @@
+* {
+  font-family: cursive;
+  color: hsl(240, 33%, 96%);
+  
+}
+.wrapper {
+  margin: 10px;
+  padding: 15px;
+  width: 800px;
+  height: 40px;
+  background-color: hsl(150, 2%, 20%);
+ 
+  
+  
+}
+h1 {
+    text-align: left;
+    margin-top: 0px;
+    padding-right: 250px;
+    
+}
+#navleft {
+  margin-right: 0px auto;
+  display: flex;
+  
+}
+
+#navright {
+  display: flex;
+  margin-right: 10px;
+  
+
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  width: 400px;
+  justify-content: space-evenly;
+  text-align: right;
+  margin: 10px 20px 10px 20px;
+}
+.btn {
+    background-color: cadetblue;
+}
